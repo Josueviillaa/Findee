@@ -58,6 +58,11 @@ body {
     padding-bottom: 15px;
 }
 
+.product:hover{
+    background-color:rgb(200, 214, 214);
+    border-radius: 20px;
+    transition: ease 1s;
+}
 .productlist{
     padding: 20px 0;
 }
